@@ -30,4 +30,7 @@ class Person {
 	}
 }
 
+var age: any = 2;
+age = '20 ans';
+
 var per = new Person('Camara', 'Mawatta');
